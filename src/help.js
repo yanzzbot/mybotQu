@@ -7,10 +7,10 @@ const help = (prefix) => {
 ┃ *LANGGAR BLOCK/BANNED!!!*
 ┣━━━━°❀ *❬ ABOUT ❭* ❀°━━━━━━┛
 ┃
-┃⊱❥ *KAZUTOBOT*
+┃⊱❥ *YanzzBotQu🤖*
 ┃⊱❥ *V 6.0*
-┃⊱❥ *http://wa.me/6288221608614*
-┃⊱❥ *Fadhil Graphy*             
+┃⊱❥ *http://wa.me/6281803522862*
+┃⊱❥ *Yanzz Official*             
 ┃
 ┣━━°❀ ❬ *TENTANG BOT* ❭ ❀°━━┓
 ┃

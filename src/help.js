@@ -221,11 +221,11 @@ const help = (prefix) => {
 ┣━━━━°❀ *❬ SOSMED ❭* ❀°━━━━⊱
 ┃
 ┃ *Ada masalah? Hub :*
-┃ _http://wa.me/6288221608614_
-┃ *Instagram :* @nur.fdhl_
+┃ _http://wa.me/6281803522862_
+┃ *Instagram :* @_zxuan54_
 ┃ *YouTube :*
-┃ _Fadhil Graphy_
-┃ *Twitter :* @nurfdhl_
+┃ _Yanzz Official_
+┃ *Twitter :* @-_
 ┃
 ┣━━━━°❀ *❬ NOTE ❭* ❀°━━━━━━⊱
 ┃
@@ -247,7 +247,7 @@ const help = (prefix) => {
 ┣⊱❥ *${prefix}DLL*
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━┓
-┃ *❬ POWERED BY KAZUTOBOT ❭*
+┃ *❬ POWERED BY YanzzBotQu🤖 ❭*
 ┗━━━━━━━━━━━━━━━━━━━━┛`
 }
 exports.help = help

@@ -149,9 +149,9 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6288221608614@s.whatsapp.net"] // GANTI NOMOR LU
-			const adminbotnumber = ["6288221608614@s.whatsapp.net"] // GANTI NOMOR LU
-			const frendsowner = ["6288221608614@s.whatsapp.net"] // GAUSAH DIGANTI!!!
+			const ownerNumber = ["6281803522862@s.whatsapp.net"] // GANTI NOMOR LU
+			const adminbotnumber = ["6281803522862@s.whatsapp.net"] // GANTI NOMOR LU
+			const frendsowner = ["6281803522862@s.whatsapp.net"] // GAUSAH DIGANTI!!!
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
